@@ -359,7 +359,8 @@ with st.sidebar:
     """, unsafe_allow_html=True)
     
     st.markdown("""
-    *Versi*: 3.0  
+    *Versi*: 3.0 
+    pont aplikasi ;
     *Developer*: Kimia Analitik Digital  
     *Lisensi*: MIT Open Source  
     *Untuk*: Praktikum Kimia Analitik
